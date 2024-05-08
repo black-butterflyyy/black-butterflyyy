@@ -1,14 +1,15 @@
-👋 Hey there! Welcome to my corner of the digital universe. I'm Hosna, a web developer with a passion for crafting immersive online experiences that leave a lasting impact. Armed with a keyboard and a creative mindset, I'm on a mission to push the boundaries of what's possible in the world of web development.
+👋 **Hey there! Welcome to my corner of the digital universe.** I'm Hosna, a web developer with a passion for **crafting immersive online experiences** that leave a lasting impact. Armed with a keyboard and a creative mindset, I'm on a mission to **push the boundaries of what's possible in the world of web development**.
 
-💻 My journey into coding started with a curiosity about how websites work and has since evolved into a full-blown obsession with all things web-related. From front-end wizardry to back-end mastery, I thrive on tackling challenges head-on and turning ideas into reality through lines of code.
+💻 **My journey into coding** started with a curiosity about how websites work and has since evolved into a full-blown obsession with all things web-related. From **front-end wizardry** to **back-end mastery**, I thrive on **tackling challenges head-on** and **turning ideas into reality through lines of code**.
 
-🚀 On my GitHub, you'll find a collection of projects that showcase my love for clean code, elegant design, and innovative solutions. Whether it's building sleek user interfaces, optimizing performance, or diving into the latest frameworks, I'm always up for a coding adventure.
+🚀 **On my GitHub**, you'll find a collection of projects that showcase my love for **clean code**, **elegant design**, and **innovative solutions**. Whether it's building **sleek user interfaces**, **optimizing performance**, or **diving into the latest frameworks**, I'm always up for a coding adventure.
 
-🌟 Beyond the code, I'm a firm believer in the power of collaboration and community. I actively contribute to open-source projects, engage with fellow developers, and mentor aspiring coders to help shape the future of technology.
+🌟 **Beyond the code**, I'm a firm believer in the **power of collaboration and community**. I actively contribute to **open-source projects**, engage with fellow developers, and **mentor aspiring coders** to help shape the future of technology.
 
-🔍 Let's connect and collaborate on something extraordinary. Whether you're a fellow developer, a potential collaborator, or just someone with a big idea, I'm here to bring it to life. Together, we'll turn dreams into pixels and code into magic.
+🔍 **Let's connect and collaborate on something extraordinary**. Whether you're a fellow developer, a potential collaborator, or just someone with a big idea, **I'm here to bring it to life**. Together, we'll **turn dreams into pixels and code into magic**.
 
-Happy coding! 🌈✨
+**Happy coding!** 🌈✨
+
 
 
 <h3 align="left">Languages and Tools:</h3>
